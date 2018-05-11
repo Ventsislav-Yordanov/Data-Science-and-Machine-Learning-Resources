@@ -4,6 +4,7 @@
 ## Machine Learning
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
 ## Deep Learning
 ## All Categories in One
 * [Chris Albon's site](https://chrisalbon.com/) - Code Recepies for Python, Statistics, Data Science, Machine Learning, Deep Learning, Regular Expressions and more.
