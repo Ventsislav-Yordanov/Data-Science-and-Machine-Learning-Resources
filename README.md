@@ -17,3 +17,4 @@
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
 ## Other
+* [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
