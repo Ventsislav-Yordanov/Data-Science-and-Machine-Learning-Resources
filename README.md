@@ -12,6 +12,10 @@
 * [DataCamp Community](https://www.datacamp.com/community) - Free tutorials, cheat sheets, blog and podcast
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 * [Andrew Ng's profile at Coursera](https://www.coursera.org/instructor/andrewng) - free Machine Learning and Deep Learning courses
+## Maths
+### Youtube Channels
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 ## Tools and Libraries
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
