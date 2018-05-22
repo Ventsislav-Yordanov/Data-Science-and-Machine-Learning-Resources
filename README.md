@@ -16,9 +16,13 @@
 ### Youtube Channels
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+### Other
+* [Linear Transformation Visualizer](https://shadanan.github.io/MatVis/)
 ## Tools and Libraries
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
 ## Other
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
+* [Google's best practices in machine learning](https://developers.google.com/machine-learning/rules-of-ml/)
+* [Top 10 Machine Learning Algorithms for Beginners](https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/)
