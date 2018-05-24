@@ -5,6 +5,7 @@
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
+* [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 ## Deep Learning
 ## All Categories in One
 * [Chris Albon's site](https://chrisalbon.com/) - Code Recepies for Python, Statistics, Data Science, Machine Learning, Deep Learning, Regular Expressions and more.
