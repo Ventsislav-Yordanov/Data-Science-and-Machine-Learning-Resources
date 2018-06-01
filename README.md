@@ -1,5 +1,6 @@
 # Data Science and Machine Learning Resources (Python)
 ## Data Science
+* [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ## Statistics
 ## Machine Learning
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
