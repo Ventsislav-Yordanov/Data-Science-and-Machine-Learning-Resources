@@ -28,6 +28,11 @@
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
+## Visualization
+### Best Data Visualizations
+* http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015/
+* http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/
+* http://flowingdata.com/2017/12/28/10-best-data-visualization-projects-of-2017/
 ## Other
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [Google's best practices in machine learning](https://developers.google.com/machine-learning/rules-of-ml/)
