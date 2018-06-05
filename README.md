@@ -25,6 +25,8 @@
 ### Other
 * [Linear Transformation Visualizer](https://shadanan.github.io/MatVis/)
 * https://www.datacamp.com/community/blog/data-science-periodic-table - Everyting that you need to start to learn Data Science: courses, boot camps, conferences, data, projects, challenges, competitions, programming languages and distributions, data management, machine learning and stats, data visualization, collaboration, community and Q&A, news, newsletters, blogs, and podcasts.
+* [Data Scientist Interviews - Vol 1, April 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-vol-1-april-2014)
+* [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
 ## Tools and Libraries
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
