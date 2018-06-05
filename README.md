@@ -1,4 +1,7 @@
 # Data Science and Machine Learning Resources (Python)
+## Python
+### Books
+* [Python 101 book](http://python101.pythonlibrary.org/)
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ## Statistics
