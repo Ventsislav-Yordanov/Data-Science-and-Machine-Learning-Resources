@@ -24,9 +24,6 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 ### Other
 * [Linear Transformation Visualizer](https://shadanan.github.io/MatVis/)
-* https://www.datacamp.com/community/blog/data-science-periodic-table - Everyting that you need to start to learn Data Science: courses, boot camps, conferences, data, projects, challenges, competitions, programming languages and distributions, data management, machine learning and stats, data visualization, collaboration, community and Q&A, news, newsletters, blogs, and podcasts.
-* [Data Scientist Interviews - Vol 1, April 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-vol-1-april-2014)
-* [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
 ## Tools and Libraries
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
@@ -35,3 +32,6 @@
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [Google's best practices in machine learning](https://developers.google.com/machine-learning/rules-of-ml/)
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/)
+* https://www.datacamp.com/community/blog/data-science-periodic-table - Everyting that you need to start to learn Data Science: courses, boot camps, conferences, data, projects, challenges, competitions, programming languages and distributions, data management, machine learning and stats, data visualization, collaboration, community and Q&A, news, newsletters, blogs, and podcasts.
+* [Data Scientist Interviews - Vol 1, April 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-vol-1-april-2014)
+* [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
