@@ -31,6 +31,7 @@
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
+* https://opendata.cityofnewyork.us/
 ## Visualization
 ### Best Data Visualizations
 * http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015/
