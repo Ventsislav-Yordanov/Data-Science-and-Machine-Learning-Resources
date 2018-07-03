@@ -37,6 +37,8 @@
 * http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015/
 * http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/
 * http://flowingdata.com/2017/12/28/10-best-data-visualization-projects-of-2017/
+## Competitions
+* https://www.drivendata.org/competitions/
 ## Other
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [Google's best practices in machine learning](https://developers.google.com/machine-learning/rules-of-ml/)
@@ -44,3 +46,4 @@
 * https://www.datacamp.com/community/blog/data-science-periodic-table - Everyting that you need to start to learn Data Science: courses, boot camps, conferences, data, projects, challenges, competitions, programming languages and distributions, data management, machine learning and stats, data visualization, collaboration, community and Q&A, news, newsletters, blogs, and podcasts.
 * [Data Scientist Interviews - Vol 1, April 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-vol-1-april-2014)
 * [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
+
