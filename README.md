@@ -31,6 +31,7 @@
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
+* https://archive.ics.uci.edu/ml/datasets.html
 * https://opendata.cityofnewyork.us/
 ## Visualization
 ### Best Data Visualizations
