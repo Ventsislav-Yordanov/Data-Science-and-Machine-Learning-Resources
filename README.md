@@ -31,6 +31,7 @@
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
 * [Kaggle](https://www.kaggle.com/datasets)
+* https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 * https://archive.ics.uci.edu/ml/datasets.html
 * https://opendata.cityofnewyork.us/
 ## Visualization
