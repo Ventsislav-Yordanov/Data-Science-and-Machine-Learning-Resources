@@ -34,6 +34,7 @@
 * https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 * https://archive.ics.uci.edu/ml/datasets.html
 * https://opendata.cityofnewyork.us/
+* https://www.gapminder.org/data/
 ## Visualization
 ### Best Data Visualizations
 * http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015/
