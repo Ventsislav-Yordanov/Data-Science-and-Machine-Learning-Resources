@@ -3,7 +3,7 @@
 ### Books
 * [Python 101 book](http://python101.pythonlibrary.org/)
 ### Blogs
-* [http://pbpython.com/](Practical Business Python)
+* [Practical Business Python](http://pbpython.com/)
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ## Statistics
