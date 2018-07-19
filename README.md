@@ -2,6 +2,8 @@
 ## Python
 ### Books
 * [Python 101 book](http://python101.pythonlibrary.org/)
+### Blogs
+* [http://pbpython.com/](Practical Business Python)
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ## Statistics
@@ -10,6 +12,8 @@
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+### Books
+* [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
 ### Books
 * http://www.deeplearningbook.org/
