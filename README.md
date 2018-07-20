@@ -15,6 +15,7 @@
 ### Books
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
+* http://www.fast.ai/ - Free courses for deep learning and linear algebra
 ### Books
 * http://www.deeplearningbook.org/
 ## All Categories in One
