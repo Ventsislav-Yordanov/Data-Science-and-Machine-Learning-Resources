@@ -43,6 +43,7 @@
 * https://opendata.cityofnewyork.us/
 * https://www.gapminder.org/data/
 ## Visualization
+* https://serialmentor.com/dataviz/ - Free online book for Data Visualization
 ### Best Data Visualizations
 * http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015/
 * http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/
