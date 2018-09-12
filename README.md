@@ -12,6 +12,9 @@
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+* https://pair-code.github.io/what-if-tool/ - inspect a machine learning model, with no coding required. 
+* [Google AI PAIR initiative](https://ai.google/research/teams/brain/pair)
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)  
 ### Books
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
