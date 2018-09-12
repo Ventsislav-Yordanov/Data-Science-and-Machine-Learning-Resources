@@ -1,5 +1,8 @@
 # Data Science and Machine Learning Resources (Python)
 ## Python
+## Kaggle
+* [Kaggle Blog](http://blog.kaggle.com/)
+* [public dataset about Kaggle, Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle/kernels)
 ### Books
 * [Python 101 book](http://python101.pythonlibrary.org/)
 ### Blogs
