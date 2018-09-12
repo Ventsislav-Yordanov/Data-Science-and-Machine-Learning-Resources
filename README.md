@@ -2,7 +2,8 @@
 ## Python
 ## Kaggle
 * [Kaggle Blog](http://blog.kaggle.com/)
-* [public dataset about Kaggle, Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle/kernels)
+* [Public dataset about Kaggle, Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle/kernels)
+* [Kaggle Learn Platform](https://www.kaggle.com/learn/overview)
 ### Books
 * [Python 101 book](http://python101.pythonlibrary.org/)
 ### Blogs
