@@ -12,6 +12,7 @@
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ## Statistics
 ## Machine Learning
+* [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
