@@ -29,6 +29,7 @@
 * https://pair-code.github.io/what-if-tool/ - inspect a machine learning model, with no coding required. 
 * [Google AI PAIR initiative](https://ai.google/research/teams/brain/pair)
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)  
+* [Machine Learning tips and tricks cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 ### Books
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
