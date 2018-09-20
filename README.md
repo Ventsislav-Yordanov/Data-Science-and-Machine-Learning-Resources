@@ -10,6 +10,8 @@
 * [Practical Business Python](http://pbpython.com/)
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
+## Data Science Podcasts
+* http://storybydata.com/humans-of-data-science-hods/
 ## Statistics
 ## Machine Learning
 * [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
