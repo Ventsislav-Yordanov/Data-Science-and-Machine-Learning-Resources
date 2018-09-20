@@ -8,11 +8,18 @@
 * [Python 101 book](http://python101.pythonlibrary.org/)
 ### Blogs
 * [Practical Business Python](http://pbpython.com/)
+* [A list of 200+ data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
+### Visualization
+* https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html
+### Books
+* https://solutionsreview.com/business-intelligence/top-20-best-data-science-books-you-should-read/
 ## Data Science Podcasts
 * http://storybydata.com/humans-of-data-science-hods/
 ## Statistics
+### Books
+* [Start to learn Statistics with these 6 books](https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 ## Machine Learning
 * [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
@@ -70,4 +77,5 @@
 * https://www.datacamp.com/community/blog/data-science-periodic-table - Everyting that you need to start to learn Data Science: courses, boot camps, conferences, data, projects, challenges, competitions, programming languages and distributions, data management, machine learning and stats, data visualization, collaboration, community and Q&A, news, newsletters, blogs, and podcasts.
 * [Data Scientist Interviews - Vol 1, April 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-vol-1-april-2014)
 * [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
-
+* [Top 10 Machine Learning Projects for Beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397)
+* [9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
