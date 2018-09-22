@@ -47,6 +47,7 @@
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 * [Andrew Ng's profile at Coursera](https://www.coursera.org/instructor/andrewng) - free Machine Learning and Deep Learning courses
 ## Maths
+* [Essential Mathematics for Artificial Intelligence](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT256x+2018_T2/about)
 ### Academies
 * [Khan Academy](https://khanacademy.org) - Includes Algebra, Calculus, Statistics and probability, and many other subjects.
 ### Youtube Channels
