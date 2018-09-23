@@ -64,6 +64,8 @@
 * https://archive.ics.uci.edu/ml/datasets.html
 * https://opendata.cityofnewyork.us/
 * https://www.gapminder.org/data/
+## Datasets
+* https://github.com/googlecreativelab/quickdraw-dataset
 ## Visualization
 * https://serialmentor.com/dataviz/ - Free online book for Data Visualization
 ### Best Data Visualizations
