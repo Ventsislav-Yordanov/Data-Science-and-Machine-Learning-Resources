@@ -83,3 +83,4 @@
 * [Data Scientist Interviews - Vol 2, December 2014](https://www.datascienceweekly.org/articles/data-scientist-interviews-volume-2-december-2014)
 * [Top 10 Machine Learning Projects for Beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397)
 * [9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
+* https://ai.google/education/ - Learn from ML experts at Google
