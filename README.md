@@ -67,6 +67,7 @@
 * https://www.gapminder.org/data/
 ## Datasets
 * https://github.com/googlecreativelab/quickdraw-dataset
+* https://mmspg.epfl.ch/food-image-datasets - food 5k dataset
 ## Visualization
 * https://serialmentor.com/dataviz/ - Free online book for Data Visualization
 ### Best Data Visualizations
