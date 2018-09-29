@@ -30,10 +30,12 @@
 * [Google AI PAIR initiative](https://ai.google/research/teams/brain/pair)
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)  
 * [Machine Learning tips and tricks cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+### Courses
+* [Introduction to Machine Learning for Coders! by fast.ai](http://course.fast.ai/ml)
 ### Books
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
-* http://www.fast.ai/ - Free courses for deep learning and linear algebra
+* http://www.fast.ai/ - Free courses for machine learning, deep learning and linear algebra
 * [Practical Deep Learning For Coders by fast.ai Part 1](http://course.fast.ai/index.html)
 * [Practical Deep Learning For Coders by fast.ai Part 2](http://course.fast.ai/part2.html)
 ### Books
@@ -42,7 +44,6 @@
 * [Chris Albon's site](https://chrisalbon.com/) - Code Recepies for Python, Statistics, Data Science, Machine Learning, Deep Learning, Regular Expressions and more.
 * [DataCamp](https://www.datacamp.com/home) - Free and paid courses
 * [DataCamp Community](https://www.datacamp.com/community) - Free tutorials, cheat sheets, blog and podcast
-* [DataCamp 1 month free trial](https://www.datacamp.com/promo/meetup)
 * [DataCamp 2 months subscription using the Visual Studio subscriptions](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
 * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - DataCamp is 100% free when you need it for your classroom. Even the premium content!
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
