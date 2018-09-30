@@ -1,5 +1,6 @@
 # Data Science and Machine Learning Resources (Python)
 ## Python
+* https://realpython.com/ - tutorials and blog posts
 ## Kaggle
 * [Kaggle Blog](http://blog.kaggle.com/)
 * [Public dataset about Kaggle, Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle/kernels)
