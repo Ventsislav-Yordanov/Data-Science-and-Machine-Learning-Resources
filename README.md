@@ -31,6 +31,8 @@
 * [Google AI PAIR initiative](https://ai.google/research/teams/brain/pair)
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)  
 * [Machine Learning tips and tricks cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+### Blogs
+* http://colah.github.io/
 ### Courses
 * [Introduction to Machine Learning for Coders! by fast.ai](http://course.fast.ai/ml)
 ### Books
