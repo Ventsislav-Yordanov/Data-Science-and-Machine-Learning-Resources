@@ -5,11 +5,12 @@
 * [Kaggle Blog](http://blog.kaggle.com/)
 * [Public dataset about Kaggle, Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle/kernels)
 * [Kaggle Learn Platform](https://www.kaggle.com/learn/overview)
-### Books
+## Books
 * [Python 101 book](http://python101.pythonlibrary.org/)
-### Blogs
+## Blogs
 * [Practical Business Python](http://pbpython.com/)
 * [A list of 200+ data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
+* https://activewizards.com/blog/ - data science and machine learning blog
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
 ### Visualization
