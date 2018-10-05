@@ -91,3 +91,4 @@
 * [Top 10 Machine Learning Projects for Beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397)
 * [9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)
 * https://ai.google/education/ - Learn from ML experts at Google
+* [200+ Best Machine Learning, Natural Language Process, and Python Tutorials for Programmers - 2018](http://houseofbots.com/news-detail/3679-4-200-plus-best-machine-learning-natural-language-process-and-python-tutorials-for-programmers-2018)
