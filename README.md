@@ -42,6 +42,7 @@
 * http://www.fast.ai/ - Free courses for machine learning, deep learning and linear algebra
 * [Practical Deep Learning For Coders by fast.ai Part 1](http://course.fast.ai/index.html)
 * [Practical Deep Learning For Coders by fast.ai Part 2](http://course.fast.ai/part2.html)
+* [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 ### Books
 * http://www.deeplearningbook.org/
 ## All Categories in One
