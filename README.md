@@ -94,3 +94,4 @@
 * https://ai.google/education/ - Learn from ML experts at Google
 * [200+ Best Machine Learning, Natural Language Process, and Python Tutorials for Programmers - 2018](http://houseofbots.com/news-detail/3679-4-200-plus-best-machine-learning-natural-language-process-and-python-tutorials-for-programmers-2018)
 * https://mybinder.org/ - Turn a GitHub repo into a collection of interactive notebooks
+* [Top Data Science Online Courses in 2018](https://www.learndatasci.com/best-data-science-online-courses/)
