@@ -96,3 +96,4 @@
 * https://mybinder.org/ - Turn a GitHub repo into a collection of interactive notebooks
 * [Top Data Science Online Courses in 2018](https://www.learndatasci.com/best-data-science-online-courses/)
 * https://stanford.edu/~shervine/teaching/cs-229.html - Supervised Learning, Unsupervised Learning, Deep Learning, Tips and Tricks, Matlab, Probabilities and Statistics, Linear Algebrat and calculus
+* https://www.packtpub.com/packt/offers/free-learning - Free ebooks
