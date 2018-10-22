@@ -40,9 +40,10 @@
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 ## Deep Learning
 * http://www.fast.ai/ - Free courses for machine learning, deep learning and linear algebra
-* [Practical Deep Learning For Coders by fast.ai Part 1](http://course.fast.ai/index.html)
-* [Practical Deep Learning For Coders by fast.ai Part 2](http://course.fast.ai/part2.html)
+* [Practical Deep Learning For Coders by fast.ai Part 1](http://course.fast.ai/index.html) - free course
+* [Practical Deep Learning For Coders by fast.ai Part 2](http://course.fast.ai/part2.html) - free course
 * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+* [Natural Language Processing with Deep Learning (Winter 2017) by Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - free video lectures
 ### Books
 * http://www.deeplearningbook.org/
 ## All Categories in One
