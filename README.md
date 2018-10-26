@@ -66,6 +66,7 @@
 ## Tools and Libraries
 * [Google AI tools](https://ai.google/tools/)
 ## Datasets Resources
+* https://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public
 * [Google Dataset Search Beta](https://toolbox.google.com/datasetsearch)
 * [Kaggle](https://www.kaggle.com/datasets)
 * https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
