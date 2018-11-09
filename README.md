@@ -23,10 +23,12 @@
 ### Books
 * [Start to learn Statistics with these 6 books](https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 ## Machine Learning
+* https://www.analyticsvidhya.com/blog/ - blog
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
+* https://sgfin.github.io/learning-resources/ - Machine Learning Resources
 * [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
 * [Machine Learning Flashcards](https://machinelearningflashcards.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
 * [Data School](http://www.dataschool.io/) - Blog posts and video series for Data Science and Machine Learning
-* [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * https://pair-code.github.io/what-if-tool/ - inspect a machine learning model, with no coding required. 
 * [Google AI PAIR initiative](https://ai.google/research/teams/brain/pair)
