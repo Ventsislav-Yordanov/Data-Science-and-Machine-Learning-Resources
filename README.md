@@ -42,6 +42,7 @@
 * [Introduction to Machine Learning for Coders! by fast.ai](http://course.fast.ai/ml)
 ### Books
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
+* [Machine Learning A Probabilistic Perspective](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf)
 ## Deep Learning
 * http://www.fast.ai/ - Free courses for machine learning, deep learning and linear algebra
 * [Practical Deep Learning For Coders by fast.ai Part 1](http://course.fast.ai/index.html) - free course
