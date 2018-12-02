@@ -13,7 +13,10 @@
 * https://activewizards.com/blog/ - data science and machine learning blog
 ## Data Science
 * [Box Plot Explanation](http://www.physics.csbsju.edu/stats/box2.html)
-## Courses
+### Exercises
+* [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+* [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+### Courses
 * https://leanpub.com/universities/set/jhu/chromebook-data-science - free online educational to help anyone who can read, write, and use a computer to move into data science
 ### Visualization
 * https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html
