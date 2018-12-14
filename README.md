@@ -54,6 +54,7 @@
 * [Natural Language Processing with Deep Learning (Winter 2017) by Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - free video lectures
 ### Books
 * http://www.deeplearningbook.org/
+* http://neuralnetworksanddeeplearning.com/index.html
 ## All Categories in One
 * [Chris Albon's site](https://chrisalbon.com/) - Code Recepies for Python, Statistics, Data Science, Machine Learning, Deep Learning, Regular Expressions and more.
 * [DataCamp](https://www.datacamp.com/home) - Free and paid courses
@@ -64,6 +65,8 @@
 * [Andrew Ng's profile at Coursera](https://www.coursera.org/instructor/andrewng) - free Machine Learning and Deep Learning courses
 ## Maths
 * [Essential Mathematics for Artificial Intelligence](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT256x+2018_T2/about)
+### Books
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 ### Academies
 * [Khan Academy](https://khanacademy.org) - Includes Algebra, Calculus, Statistics and probability, and many other subjects.
 ### Youtube Channels
