@@ -96,6 +96,8 @@
 ## Competitions
 * https://www.drivendata.org/competitions/
 ## Other
+* https://datamovesme.com/ - Read about topics in Data Science or prepare for your upcoming interview.
+* https://www.datasciencelive.com/ - ongoing Series of Data Science Webinars
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [Google's best practices in machine learning](https://developers.google.com/machine-learning/rules-of-ml/)
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/)
