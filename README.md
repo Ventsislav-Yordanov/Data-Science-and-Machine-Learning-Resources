@@ -55,6 +55,7 @@
 * [Practical Deep Learning For Coders by fast.ai Part 2](http://course.fast.ai/part2.html) - free course
 * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Natural Language Processing with Deep Learning (Winter 2017) by Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - free video lectures
+https://deeplearning.mit.edu/
 ### Books
 * http://www.deeplearningbook.org/
 * http://neuralnetworksanddeeplearning.com/index.html
