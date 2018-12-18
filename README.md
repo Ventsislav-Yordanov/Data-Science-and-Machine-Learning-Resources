@@ -23,6 +23,7 @@
 * https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html
 ### Books
 * https://solutionsreview.com/business-intelligence/top-20-best-data-science-books-you-should-read/
+* [https://github.com/wesm/pydata-book](Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media)
 ## Data Science Podcasts
 * http://storybydata.com/humans-of-data-science-hods/
 ## Statistics
