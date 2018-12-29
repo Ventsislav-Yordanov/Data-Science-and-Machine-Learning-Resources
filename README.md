@@ -27,6 +27,7 @@
 ## Data Science Podcasts
 * http://storybydata.com/humans-of-data-science-hods/
 ## Statistics
+* https://seeing-theory.brown.edu/basic-probability/index.html - Interactive Visual Introduction to Probability and Statistics 
 ### Books
 * [Start to learn Statistics with these 6 books](https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 ## Machine Learning
