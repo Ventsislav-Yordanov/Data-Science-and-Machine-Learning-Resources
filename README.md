@@ -1,5 +1,6 @@
 # Data Science and Machine Learning Resources (Python)
 * [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
+* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
 ## Python
 * https://realpython.com/ - tutorials and blog posts
 ## Kaggle
