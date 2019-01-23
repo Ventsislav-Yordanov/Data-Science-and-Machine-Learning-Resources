@@ -2,6 +2,7 @@
 * [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
 * https://ai.google/
+* [Must read papers on machine learning for a beginner](https://www.quora.com/What-are-some-must-read-papers-on-machine-learning-for-a-beginner)
 ## Python
 * https://realpython.com/ - tutorials and blog posts
 ## Kaggle
