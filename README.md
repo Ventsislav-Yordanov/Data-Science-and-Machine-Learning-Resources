@@ -107,6 +107,8 @@
 * http://flowingdata.com/2017/12/28/10-best-data-visualization-projects-of-2017/
 ## Competitions
 * https://www.drivendata.org/competitions/
+## Papers
+* https://paperswithcode.com/sota
 ## Other
 * https://datamovesme.com/ - Read about topics in Data Science or prepare for your upcoming interview.
 * https://www.datasciencelive.com/ - ongoing Series of Data Science Webinars
