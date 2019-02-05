@@ -96,6 +96,7 @@
 * https://archive.ics.uci.edu/ml/datasets.html
 * https://opendata.cityofnewyork.us/
 * https://www.gapminder.org/data/
+* https://data.cityofchicago.org
 ## Datasets
 * https://github.com/googlecreativelab/quickdraw-dataset
 * https://mmspg.epfl.ch/food-image-datasets - food 5k dataset
