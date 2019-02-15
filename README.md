@@ -55,6 +55,7 @@
 * http://themlbook.com/
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
 * [Machine Learning A Probabilistic Perspective](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf)
+* https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/
 ## Deep Learning
 * http://d2l.ai/index.html - An interactive deep learning book for students, engineers, and researchers.
 * http://playground.tensorflow.org/ - an interactive visualization of neural networks
