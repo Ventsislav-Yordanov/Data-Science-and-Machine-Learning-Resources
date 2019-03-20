@@ -5,7 +5,7 @@
 * https://ai.google/
 * [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
 * [Must read papers on machine learning for a beginner](https://www.quora.com/What-are-some-must-read-papers-on-machine-learning-for-a-beginner)
-* https://www.analyticsvidhya.com/blog/2018/09/heroes-deep-learning-top-takeaways-andrew-ng-interview-series/
+* [Heroes of Deep Learning: Top Takeaways for Aspiring Data Scientists from Andrew Ng’s Interview Series](https://www.analyticsvidhya.com/blog/2018/09/heroes-deep-learning-top-takeaways-andrew-ng-interview-series/)
 ## Python
 * https://realpython.com/ - tutorials and blog posts
 ## Kaggle
