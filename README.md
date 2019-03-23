@@ -55,7 +55,10 @@
 ### Books
 * http://themlbook.com/
 * [Oracle - Demystifying Machine Learning](http://www.oracle.com/us/products/applications/machine-learning-v3-4442540.pdf?source=%3Aso%3Abl%3Aor%3A%3ABDBlog%20%3Aow%3Alp%3Acpo%3A%3A)
-* [Machine Learning A Probabilistic Perspective](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf)
+* Machine Learning: A Probabilistic Perspective by Murphy
+* [Deep Learning by Goodfellow](https://www.deeplearningbook.org/)
+* [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 * https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/
 ## Deep Learning
 * http://d2l.ai/index.html - An interactive deep learning book for students, engineers, and researchers.
@@ -67,7 +70,6 @@
 * [Natural Language Processing with Deep Learning (Winter 2017) by Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - free video lectures
 * https://deeplearning.mit.edu/
 ### Books
-* http://www.deeplearningbook.org/
 * http://neuralnetworksanddeeplearning.com/index.html
 ## All Categories in One
 * [Chris Albon's site](https://chrisalbon.com/) - Code Recepies for Python, Statistics, Data Science, Machine Learning, Deep Learning, Regular Expressions and more.
