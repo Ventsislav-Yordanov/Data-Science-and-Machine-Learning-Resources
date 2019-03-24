@@ -59,6 +59,7 @@
 * [Deep Learning by Goodfellow](https://www.deeplearningbook.org/)
 * [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+* [Confident Data Skills: Master the Fundamentals of Working with Data and Supercharge Your Career (Confident Series) by Kirill Eremenko](https://www.amazon.com/Confident-Data-Skills-Fundamentals-Supercharge-ebook/dp/B078HF5TKY)
 * https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/
 ## Deep Learning
 * http://d2l.ai/index.html - An interactive deep learning book for students, engineers, and researchers.
