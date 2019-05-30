@@ -27,6 +27,8 @@
 * https://leanpub.com/universities/set/jhu/chromebook-data-science - free online educational to help anyone who can read, write, and use a computer to move into data science
 ### Visualization
 * https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html
+* https://www.visualcinnamon.com/portfolio/
+* https://bl.ocks.org/
 ### Books
 * https://solutionsreview.com/business-intelligence/top-20-best-data-science-books-you-should-read/
 * [https://github.com/wesm/pydata-book](Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media)
