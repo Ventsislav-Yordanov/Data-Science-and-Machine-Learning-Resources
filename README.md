@@ -83,6 +83,7 @@
 * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - DataCamp is 100% free when you need it for your classroom. Even the premium content!
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 * [Andrew Ng's profile at Coursera](https://www.coursera.org/instructor/andrewng) - free Machine Learning and Deep Learning courses
+* https://skymind.ai/wiki/
 ## Maths
 * [Essential Mathematics for Artificial Intelligence](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT256x+2018_T2/about)
 ### Books
