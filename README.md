@@ -73,6 +73,7 @@
 * [Natural Language Processing with Deep Learning (Winter 2017) by Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - free video lectures
 * https://deeplearning.mit.edu/
 * https://distill.pub/2019/activation-atlas/
+* https://stanford.edu/~shervine/teaching/cs-230/
 ### Books
 * http://neuralnetworksanddeeplearning.com/index.html
 ## All Categories in One
