@@ -1,7 +1,20 @@
 # Data Science and Machine Learning Resources (Python)
 ## Important
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+* [Machine Learning Glossary by Google](https://developers.google.com/machine-learning/glossary)
+* [BOOK Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Sklearn User Guide](https://scikit-learn.org/stable/user_guide.html)
+* [Linear Algebra Visually Explained](http://immersivemath.com/ila/tableofcontents.html?)
+* [Linear Algebra Notes from the Deep Learning book from Ian Goodfellow](https://github.com/hadrienj/deepLearningBook-Notes)
+* [Linear Algebra Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+
+### Youtube Channels
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+
+
+## Other
 * [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
-* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
 * https://ai.google/
 * [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
 * [Must read papers on machine learning for a beginner](https://www.quora.com/What-are-some-must-read-papers-on-machine-learning-for-a-beginner)
@@ -91,9 +104,6 @@
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 ### Academies
 * [Khan Academy](https://khanacademy.org) - Includes Algebra, Calculus, Statistics and probability, and many other subjects.
-### Youtube Channels
-* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
-* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 ### Other
 * [Linear Transformation Visualizer](https://shadanan.github.io/MatVis/)
 ## Tools and Libraries
