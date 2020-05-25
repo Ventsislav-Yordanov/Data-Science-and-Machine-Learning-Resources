@@ -7,6 +7,7 @@
 * [Linear Algebra Visually Explained](http://immersivemath.com/ila/tableofcontents.html?)
 * [Linear Algebra Notes from the Deep Learning book from Ian Goodfellow](https://github.com/hadrienj/deepLearningBook-Notes)
 * [Linear Algebra Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+* [Kaggle Courses](https://www.kaggle.com/learn/overview)
 
 ### Youtube Channels
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
